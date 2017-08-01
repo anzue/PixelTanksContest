@@ -2,6 +2,7 @@
 #define FILESTRATEGY_H
 #include <QProcess>
 #include "strategy.h"
+#include "world.h"
 
 class FileStrategy:public Strategy
 {
